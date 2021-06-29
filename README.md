@@ -108,8 +108,8 @@ Technologies and tools that I am learning at the moment:
 
 ---
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexdgoncalves&&count_private=true&show_icons=true&theme=react" width="500"> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdgoncalves&layout=compact&theme=react" width="500">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexdgoncalves&&count_private=true&show_icons=true&theme=tokyonight" width="500"> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdgoncalves&layout=compact&theme=tokyonight" width="500">
 </p>
     
 ---
